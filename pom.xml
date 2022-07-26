@@ -15,6 +15,7 @@
         <module>demo-sub3</module>
         <module>demo-sub4</module>
         <module>demo-sub5</module>
+        <module>demo-sub6</module>
     </modules>
 
     <properties>
